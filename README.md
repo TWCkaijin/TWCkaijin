@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Kaijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TWCkaijin)](https://github.com/TWCKaijin/github-readme-stats)
-
+![Kaijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TWCkaijin&show_icons=true&theme=synthwave)
