@@ -12,7 +12,7 @@ Who Am I:
 
 What am i doing now:
 - Contributing to NSYSU AP
-- Learning Scratch Transformer
+- Learning Transformer from scratch
 
 
 What can I do: 
