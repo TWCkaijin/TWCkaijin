@@ -33,16 +33,22 @@
 - Pytorch, Tensorflow, Sklearn, Statsmodels
 - Deep learning (Especially on LLM and CNN)
 
-<div style="display: flex; gap: 10px; align-items: center; flex-direction: row; height: 40px;">
-<img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="node" style="height: auto;"/>
-<img src="https://firebase.google.com/images/icons/firebase_studio.png" alt="Firebase"/>
-<img src="https://cdn-1.webcatalog.io/catalog/google-cloud-communities/google-cloud-communities-icon-unplated.png?v=1739761821377" alt="GCP"/>
-<img src="https://dt-cdn.net/hub/vertex-ai-icon_1.png" alt="vertex AI"/>
-<img src="https://cdn-1.webcatalog.io/catalog/google-ai-studio/google-ai-studio-icon.png?v=1714782928979" alt="Flask"/>
-<img src="https://progressbar.tw/uploads/ckeditor/pictures/2618/content_600px-Python-logo-notext.svg.png" alt="Python"/>
-<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/pytorch-icon-ax2dnmm914kpyknh6o5tp.png/pytorch-icon-j3qqs6v1ydhsa6rqyquab.png?_a=DATAg1AAZAA0" alt="Pytorch"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/449px-Tensorflow_logo.svg.png" alt="Tensorflow"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png" alt="sci-kit learn"/>
-</div>
+### Tech Stack
 
-![Kaijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TWCkaijin&show_icons=true&theme=tokyonight&bg_color=22333B&title_color=&text_color=C6AC8F))
+- ### Languages
+
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)![Cpp](https://img.shields.io/badge/CPP-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)![C-Sharp](https://img.shields.io/badge/CSharp-3776AB?style=for-the-badge&logo=csharp&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+- ### Web relatives
+
+    ![Node.js](https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)![vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)![Nextjs](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+- ### Cloud
+
+    ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+- ### DL/ML
+
+    ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)![Hugging-Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=white)
+
+![Kaijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TWCkaijin&show_icons=true&theme=tokyonight&bg_color=22333B&title_color=&text_color=C6AC8F)
