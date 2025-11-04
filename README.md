@@ -8,7 +8,7 @@
 - Love coding but hate having test. I love to dealing with projects
 - 
 
-## What am i have done
+## What I have done
 
 - Contributing to NSYSU AP (School affair apps)
 - Contributing to NSYSU AILab
@@ -18,7 +18,7 @@
 - NSYSU Code Club 24' President
 - AIGO 2023 Advance & innovate image detection 2nd place
 
-## What am i doing
+## What am I doing
 
 - Trainging a project group to contribute NSYSU Course Select Helper
 - Having research on Neural Architecture Search (NAS) field
