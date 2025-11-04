@@ -33,7 +33,7 @@
 - Pytorch, Tensorflow, Sklearn, Statsmodels
 - Deep learning (Especially on LLM and CNN)
 
-<div style="display: flex; gap: 1rem; align-items: center; flex-direction: row; height: 3rem;">
+<div style="display: flex; gap: 10px; align-items: center; flex-direction: row; height: 40px;">
 <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="node" style="height: auto;"/>
 <img src="https://firebase.google.com/images/icons/firebase_studio.png" alt="Firebase"/>
 <img src="https://cdn-1.webcatalog.io/catalog/google-cloud-communities/google-cloud-communities-icon-unplated.png?v=1739761821377" alt="GCP"/>
