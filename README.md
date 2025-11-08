@@ -6,7 +6,6 @@
 - A student in NSYSU major in CSE
 - Currently 21 years old
 - Love coding but hate having test. I love to dealing with projects
-- 
 
 ## What I have done
 
