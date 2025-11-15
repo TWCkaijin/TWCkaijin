@@ -9,6 +9,7 @@
 
 ## What I have done
 
+- Author of published paper  "Index-Encoded Differential Evolution Hyper-heyristic"
 - Contributing to NSYSU AP (School affair apps)
 - Contributing to NSYSU AILab
 - Contributing to NSYSU Course Select Helper (web)
