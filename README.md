@@ -57,4 +57,7 @@
 - ### OS
     ![macos](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+
+# commit rank in Taiwan
+[![committers.top badge](https://user-badge.committers.top/taiwan/USERNAME.svg)](https://user-badge.committers.top/taiwan/TWCKaijin)
 ![Kaijin's GitHub stats](https://github-readme-stats.vercel.app/api?username=TWCkaijin&show_icons=true&theme=tokyonight&bg_color=22333B&title_color=&text_color=C6AC8F)
